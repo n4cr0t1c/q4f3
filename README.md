@@ -23,6 +23,13 @@ This project provides file encryption and decryption using a hybrid post-quantum
 ---
 
 ## Usage
+First make sure to have RUST installed in your device. Then create a new cargo
+```bash
+cargo new
+```
+Navigate to the `src/main.rs` and replace the contents with the contents in main.rs, repeat the same for `Cargo.toml`
+
+FInally run the Cargo
 ```bash
 cd q4f3/src
 cargo run
