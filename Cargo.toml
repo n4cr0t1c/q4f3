@@ -1,0 +1,10 @@
+[package]
+name = "qafe"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+aes-gcm = "0.10"
+pqcrypto-kyber = "0.8.1"
+rand = "0.9.2"
+pqcrypto-traits = "0.3"
